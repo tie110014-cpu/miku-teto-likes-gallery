@@ -113,7 +113,7 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt
 function fmt(n){ if(n==null) return '?'; if(n>=1e4){const v=n/1e4; return (v>=100?Math.round(v):Math.round(v*10)/10)+'만';}
   if(n>=1e3) return Math.round(n/100)/10+'천'; return String(n); }
 const src = (im, size) => `${im.base}?format=${im.fmt||'jpg'}&name=${size}`;
-let lastCols = 0; let rz; window.addEventListener('resize', ()=>{ clearTimeout(rz); rz=setTimeout(()=>{ const W=$('#grid').clientWidth, gap=W<=640?10:14; const n=Math.max(W<=640?2:1, Math.min(5, Math.floor((W+gap)/(230+gap)))); if(D && n!==lastCols) render(); },200); });
+let lastCols = 0; let rz; window.addEventListener('resize', ()=>{ clearTimeout(rz); rz=setTimeout(()=>{ const W=$('#grid').clientWidth, gap=W<=640?10:14; const n=Math.max(W<=640?2:1, Math.min(7, Math.floor((W+gap)/(160+gap)))); if(D && n!==lastCols) render(); },200); });
 let D, filter='all', sort='liked-desc', q='';
 const TAGLABEL = {miku:'미쿠', teto:'테토'};
 function view(){
@@ -128,7 +128,7 @@ function render(){
   $('#count').innerHTML = `좋아요한 게시물 <b>${c.total}</b>개 · 이미지 게시물 <b>${c.with_images}</b>개(${c.images}장) · 표시 중 <b>${ps.length}</b>개`;
   const g = $('#grid'); g.innerHTML = '';
   const W = g.clientWidth || window.innerWidth, gap = W<=640?10:14;
-  const n = Math.max(W<=640?2:1, Math.min(5, Math.floor((W+gap)/(230+gap)))); lastCols = n;
+  const n = Math.max(W<=640?2:1, Math.min(7, Math.floor((W+gap)/(160+gap)))); lastCols = n;
   const cw = (W - gap*(n-1))/n;
   const cols = [], hs = [];
   for(let k=0;k<n;k++){ const d=document.createElement('div'); d.className='col'; cols.push(d); hs.push(0); g.appendChild(d); }
