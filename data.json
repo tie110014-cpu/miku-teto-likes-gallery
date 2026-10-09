@@ -1,15 +1,15 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-09 07:55 KST",
+ "generated": "2026-10-09 11:19 KST",
  "counts": {
-  "total": 3406,
-  "with_images": 3117,
-  "images": 3827,
+  "total": 3420,
+  "with_images": 3131,
+  "images": 3841,
   "video": 169,
   "text": 39,
   "unavailable": 80,
   "error": 1,
-  "miku": 1461,
+  "miku": 1475,
   "teto": 431
  },
  "posts": [
@@ -102555,6 +102555,470 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/1932382385527750656/uIes1H3L_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1884805931537506581",
+   "handle": "BrenniMurasaki",
+   "order": 3406,
+   "url": "https://x.com/BrenniMurasaki/status/1884805931537506581",
+   "liked_at": null,
+   "desc": "Goku x Miku ✨ . . . #songoku #hatsunemiku #dragonball #vocaloid #sailormoon #90sanimestyle #procreateart #fornite",
+   "likes": 16772,
+   "name": "Brenni Murasaki 💕",
+   "text": "Goku x Miku ✨ . . . #songoku #hatsunemiku #dragonball #vocaloid #sailormoon #90sanimestyle #procreateart #fornite",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GigtAUqXMAAFXCP",
+     "fmt": "jpg",
+     "w": 2048,
+     "h": 1536
+    }
+   ],
+   "hashtags": [
+    "songoku",
+    "hatsunemiku",
+    "dragonball",
+    "vocaloid",
+    "sailormoon",
+    "90sanimestyle",
+    "procreateart",
+    "fornite"
+   ],
+   "created_at": "2025-01-30T03:28:46.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2108013712078422016/-Fpc2L9C_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1883595828851536278",
+   "handle": "Borcheim",
+   "order": 3407,
+   "url": "https://x.com/Borcheim/status/1883595828851536278",
+   "liked_at": null,
+   "desc": "thinking about fighting type miku",
+   "likes": 84871,
+   "name": "Borch 💫",
+   "text": "thinking about fighting type miku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GiPgYC3WUAA9PcQ",
+     "fmt": "jpg",
+     "w": 2931,
+     "h": 3605
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-26T19:20:15.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2087284455215976448/9FyvU2nf_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1829480481517441180",
+   "handle": "Midori_fufu",
+   "order": 3408,
+   "url": "https://x.com/Midori_fufu/status/1829480481517441180",
+   "liked_at": null,
+   "desc": "💙 #初音ミク",
+   "likes": 22783,
+   "name": "米豆綠Midori",
+   "text": "💙 #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GWOeypJWoAAT4vd",
+     "fmt": "jpg",
+     "w": 4096,
+     "h": 2528
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-08-30T11:25:11.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1752333177253945344/DXOiBpo7_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1828345213116441021",
+   "handle": "ahiru_tokotoko",
+   "order": 3409,
+   "url": "https://x.com/ahiru_tokotoko/status/1828345213116441021",
+   "liked_at": null,
+   "desc": "😆 #初音ミク #pixelart",
+   "likes": 21348,
+   "name": "あひる",
+   "text": "😆 #初音ミク #pixelart",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GV-WR2RaEAAiTUJ",
+     "fmt": "jpg",
+     "w": 1516,
+     "h": 2048
+    }
+   ],
+   "hashtags": [
+    "初音ミク",
+    "pixelart"
+   ],
+   "created_at": "2024-08-27T08:14:02.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2108182927553236992/TMt2expD_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1887802677708443861",
+   "handle": "Rikodamu1",
+   "order": 3410,
+   "url": "https://x.com/Rikodamu1/status/1887802677708443861",
+   "liked_at": null,
+   "desc": "Miku",
+   "likes": 22663,
+   "name": "Rikodamu (CEO of Futaba)",
+   "text": "Miku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GjLSh9rWQAASZ5n",
+     "fmt": "jpg",
+     "w": 964,
+     "h": 1280
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-02-07T09:56:46.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1940749875831885824/51AFAXxc_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1828382867384344939",
+   "handle": "nknk_fff",
+   "order": 3411,
+   "url": "https://x.com/nknk_fff/status/1828382867384344939",
+   "liked_at": null,
+   "desc": "#初音ミク",
+   "likes": 27814,
+   "name": "たなぬき",
+   "text": "#初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GV-4hhYXoAAOSBD",
+     "fmt": "jpg",
+     "w": 1017,
+     "h": 2048
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-08-27T10:43:39.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1868514205030322176/KQOMfFkU_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1824627873321459748",
+   "handle": "h_ran85",
+   "order": 3412,
+   "url": "https://x.com/h_ran85/status/1824627873321459748",
+   "liked_at": null,
+   "desc": "#初音ミク",
+   "likes": 28290,
+   "name": "らん",
+   "text": "#初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GVJeh1wbIAEUm_x",
+     "fmt": "jpg",
+     "w": 1832,
+     "h": 2512
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-08-17T02:02:39.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1709167326778798080/wrdxZn7x_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1885781799974121504",
+   "handle": "_birdpaladin",
+   "order": 3413,
+   "url": "https://x.com/_birdpaladin/status/1885781799974121504",
+   "liked_at": null,
+   "desc": "happy year of the snake!! a snake miku to celebrate :-)",
+   "likes": 36900,
+   "name": "samithy 🍎",
+   "text": "happy year of the snake!! a snake miku to celebrate :-)",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Giuka83bkAADR5C",
+     "fmt": "jpg",
+     "w": 1260,
+     "h": 1860
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-02-01T20:06:31.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1886958249242714112/IqiPxnjC_bigger.png",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1828080301203243099",
+   "handle": "1030Aoiyui",
+   "order": 3414,
+   "url": "https://x.com/1030Aoiyui/status/1828080301203243099",
+   "liked_at": null,
+   "desc": "世界ミクちゃんが流行ってる？！ 創作日本のご当地初音ミクもぜひ🥳⭐️ #47都道府県ご当地ミク",
+   "likes": 50458,
+   "name": "青井ゆい｜ﾎﾞｰﾏｽ K37.38",
+   "text": "世界ミクちゃんが流行ってる？！ 創作日本のご当地初音ミクもぜひ🥳⭐️ #47都道府県ご当地ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GV6lHCpW0AAJiXX",
+     "fmt": "jpg",
+     "w": 2048,
+     "h": 1942
+    }
+   ],
+   "hashtags": [
+    "47都道府県ご当地ミク"
+   ],
+   "created_at": "2024-08-26T14:41:22.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1477662473444786179/kQDariDy_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1888769565372436694",
+   "handle": "Killaira_art",
+   "order": 3415,
+   "url": "https://x.com/Killaira_art/status/1888769565372436694",
+   "liked_at": null,
+   "desc": "* ‧̍̊˙· 𓆝.° Frutiger Aero Miku!! °.𓆞 ·˙‧̍̊",
+   "likes": 103832,
+   "name": "Killaira | VGEN 🩸",
+   "text": "* ‧̍̊˙· 𓆝.° Frutiger Aero Miku!! °.𓆞 ·˙‧̍̊",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GjZBf2JWAAAKvCe",
+     "fmt": "jpg",
+     "w": 3817,
+     "h": 4096
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-02-10T01:58:50.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2094476978631974912/90Lyt_Hq_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1884964785957073132",
+   "handle": "mikuneki",
+   "order": 3416,
+   "url": "https://x.com/mikuneki/status/1884964785957073132",
+   "liked_at": null,
+   "desc": "Miku on Fortnite.",
+   "likes": 340124,
+   "name": "Mikuneki 🦇",
+   "text": "Miku on Fortnite.",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GiioEOlaoAEzANm",
+     "fmt": "jpg",
+     "w": 3500,
+     "h": 4000
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-30T14:00:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2088165421921001472/FlLAAHen_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1890935205663264884",
+   "handle": "nrcgray",
+   "order": 3417,
+   "url": "https://x.com/nrcgray/status/1890935205663264884",
+   "liked_at": null,
+   "desc": "I finally painted my Monster Hunter Miku: #MonsterHunter #HatsuneMiku",
+   "likes": 16648,
+   "name": "NRC Gray",
+   "text": "I finally painted my Monster Hunter Miku: #MonsterHunter #HatsuneMiku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Gj3zWofXsAQEC7R",
+     "fmt": "jpg",
+     "w": 1961,
+     "h": 2280
+    }
+   ],
+   "hashtags": [
+    "MonsterHunter",
+    "HatsuneMiku"
+   ],
+   "created_at": "2025-02-16T01:24:19.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1677109926768852992/dIxycdnB_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1829534540500451489",
+   "handle": "chie_rico",
+   "order": 3418,
+   "url": "https://x.com/chie_rico/status/1829534540500451489",
+   "liked_at": null,
+   "desc": "今年もお誕生日おめでとうミク🎀 #初音ミク誕生祭2024 #初音ミク",
+   "likes": 27640,
+   "name": "チェリ子",
+   "text": "今年もお誕生日おめでとうミク🎀 #初音ミク誕生祭2024 #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GWN_QKCaoAAdzZZ",
+     "fmt": "jpg",
+     "w": 1386,
+     "h": 1960
+    }
+   ],
+   "hashtags": [
+    "初音ミク誕生祭2024",
+    "初音ミク"
+   ],
+   "created_at": "2024-08-30T15:00:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/868797141187153922/amjJGtkI_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1829534605445329045",
+   "handle": "aryuma772",
+   "order": 3419,
+   "url": "https://x.com/aryuma772/status/1829534605445329045",
+   "liked_at": null,
+   "desc": "#初音ミク誕生祭2024 #初音ミク #prsk_fa これからも生まれる初音ミクに",
+   "likes": 35841,
+   "name": "亜龍@依頼受付中",
+   "text": "#初音ミク誕生祭2024 #初音ミク #prsk_fa これからも生まれる初音ミクに",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GWPPpoEawAARHaR",
+     "fmt": "jpg",
+     "w": 1854,
+     "h": 3370
+    }
+   ],
+   "hashtags": [
+    "初音ミク誕生祭2024",
+    "初音ミク",
+    "prsk_fa"
+   ],
+   "created_at": "2024-08-30T15:00:15.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2040751302079315968/TZmIspf5_bigger.jpg",
    "sensitive": false,
    "tags": [
     "miku"
