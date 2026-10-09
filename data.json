@@ -1,16 +1,16 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-09 12:49 KST",
+ "generated": "2026-10-09 13:43 KST",
  "counts": {
-  "total": 3450,
-  "with_images": 3161,
-  "images": 3873,
+  "total": 3465,
+  "with_images": 3176,
+  "images": 3889,
   "video": 169,
   "text": 39,
   "unavailable": 80,
   "error": 1,
-  "miku": 1502,
-  "teto": 434
+  "miku": 1516,
+  "teto": 435
  },
  "posts": [
   {
@@ -103999,6 +103999,491 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/1932091819107758080/0rTCFSQk_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1879306188145467889",
+   "handle": "galaxyroyaltea",
+   "order": 3450,
+   "url": "https://x.com/galaxyroyaltea/status/1879306188145467889",
+   "liked_at": null,
+   "desc": "I still can’t believe miku is in fortnite",
+   "likes": 22209,
+   "name": "galaxy ‧₊˚✩彡",
+   "text": "I still can’t believe miku is in fortnite",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhSjBJ-W0AA4E56",
+     "fmt": "jpg",
+     "w": 1524,
+     "h": 1878
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-14T23:14:45.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2100411445590609920/xDQFWLYX_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1804880089156341794",
+   "handle": "_Guguzi",
+   "order": 3451,
+   "url": "https://x.com/_Guguzi/status/1804880089156341794",
+   "liked_at": null,
+   "desc": "#初音ミク 盯………",
+   "likes": 36495,
+   "name": "古骨子",
+   "text": "#初音ミク 盯………",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GQw437CbsAA1dfE",
+     "fmt": "jpg",
+     "w": 858,
+     "h": 1212
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-06-23T14:12:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2069253560647471104/wBXqFFfI_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1807699649853354430",
+   "handle": "_namahami_",
+   "order": 3452,
+   "url": "https://x.com/_namahami_/status/1807699649853354430",
+   "liked_at": null,
+   "desc": "初音ミク",
+   "likes": 39664,
+   "name": "🥩生ハミ🥩",
+   "text": "初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GRY9Pw9bgAApCD3",
+     "fmt": "jpg",
+     "w": 1596,
+     "h": 2290
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2024-07-01T08:55:56.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2076647148326957056/zXAL1zc1_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1998066511995646376",
+   "handle": "miri_1m_1000",
+   "order": 3453,
+   "url": "https://x.com/miri_1m_1000/status/1998066511995646376",
+   "liked_at": null,
+   "desc": "炎天下に放置した初音ミクで卵焼き",
+   "likes": 40930,
+   "name": "miri_1m",
+   "text": "炎天下に放置した初音ミクで卵焼き",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/G7qOr8VbEAEY7sT",
+     "fmt": "jpg",
+     "w": 1655,
+     "h": 1056
+    },
+    {
+     "base": "https://pbs.twimg.com/media/G7qOu01aMAAE9qV",
+     "fmt": "jpg",
+     "w": 1655,
+     "h": 1056
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-12-08T16:25:53.000Z",
+   "media_types": [
+    "photo",
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1832660343572852737/vUTLYGG6_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1878887222767948031",
+   "handle": "sandraghart",
+   "order": 3454,
+   "url": "https://x.com/sandraghart/status/1878887222767948031",
+   "liked_at": null,
+   "desc": "Ghost Miku! 👻🎭",
+   "likes": 41590,
+   "name": "🍂🎃​ Sandra 🎃​🍂",
+   "text": "Ghost Miku! 👻🎭",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhMlvajWgAAAbkO",
+     "fmt": "jpg",
+     "w": 1000,
+     "h": 1419
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-13T19:29:56.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2108258603597533184/zhcZRdfz_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1805980368878866899",
+   "handle": "medyum_medyum",
+   "order": 3455,
+   "url": "https://x.com/medyum_medyum/status/1805980368878866899",
+   "liked_at": null,
+   "desc": "初音ミク「私くらいになれば静止画からだって歌とダンスを見せれるんですよ！」",
+   "likes": 41841,
+   "name": "medyum@低浮上",
+   "text": "初音ミク「私くらいになれば静止画からだって歌とダンスを見せれるんですよ！」",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GRAhkoRbIAAEXtB",
+     "fmt": "jpg",
+     "w": 1451,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2024-06-26T15:04:08.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1433021668490813444/d61FILad_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1803342631763890265",
+   "handle": "hakusetu_326",
+   "order": 3456,
+   "url": "https://x.com/hakusetu_326/status/1803342631763890265",
+   "liked_at": null,
+   "desc": "#初音ミク 染樱",
+   "likes": 42387,
+   "name": "風眠",
+   "text": "#初音ミク 染樱",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GQbCfngaIAA95dJ",
+     "fmt": "jpg",
+     "w": 4096,
+     "h": 2190
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-06-19T08:22:42.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1834753872289783808/szjFAZ0Y_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1807358511766286786",
+   "handle": "Bedama_01",
+   "order": 3457,
+   "url": "https://x.com/Bedama_01/status/1807358511766286786",
+   "liked_at": null,
+   "desc": "#初音ミク",
+   "likes": 45358,
+   "name": "B玉",
+   "text": "#初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GRUG_OObgAAQbE2",
+     "fmt": "jpg",
+     "w": 2048,
+     "h": 2048
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-06-30T10:20:22.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1766599905248935936/y5oL4SA__bigger.png",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1995051619768225872",
+   "handle": "samenai_ymkr",
+   "order": 3458,
+   "url": "https://x.com/samenai_ymkr/status/1995051619768225872",
+   "liked_at": null,
+   "desc": "✩ˎˊ˗ #イェナ #최예나 #YENA_STAR #初音ミク",
+   "likes": 50767,
+   "name": "さめない",
+   "text": "✩ˎˊ˗ #イェナ #최예나 #YENA_STAR #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/G6_Y3v2agAAO7e4",
+     "fmt": "jpg",
+     "w": 1431,
+     "h": 2048
+    }
+   ],
+   "hashtags": [
+    "イェナ",
+    "최예나",
+    "YENA_STAR",
+    "初音ミク"
+   ],
+   "created_at": "2025-11-30T08:45:47.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1688060438532296704/6ECU6LP3_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1880288088024588570",
+   "handle": "naluxk",
+   "order": 3459,
+   "url": "https://x.com/naluxk/status/1880288088024588570",
+   "liked_at": null,
+   "desc": "Miku and Godzilla In Fortnite!",
+   "likes": 22067,
+   "name": "Naluxk commissions OPEN‼️",
+   "text": "Miku and Godzilla In Fortnite!",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Ghgfv47XEAA4G3x",
+     "fmt": "jpg",
+     "w": 4096,
+     "h": 2731
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-17T16:16:28.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1906573270586941440/FltowB-o_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1879657424111702077",
+   "handle": "koafreedraw",
+   "order": 3460,
+   "url": "https://x.com/koafreedraw/status/1879657424111702077",
+   "liked_at": null,
+   "desc": "miku gang",
+   "likes": 21910,
+   "name": "Koasku 🍔",
+   "text": "miku gang",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhXid0cW8AMH1gm",
+     "fmt": "jpg",
+     "w": 1202,
+     "h": 972
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-15T22:30:26.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1742965715009753088/uJE9cJKq_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1809564203428294897",
+   "handle": "poa__poa05",
+   "order": 3461,
+   "url": "https://x.com/poa__poa05/status/1809564203428294897",
+   "liked_at": null,
+   "desc": "#初音ミク",
+   "likes": 15982,
+   "name": "ぽわをん",
+   "text": "#初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GRzdDQlacAQjcKc",
+     "fmt": "jpg",
+     "w": 1570,
+     "h": 2048
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-07-06T12:25:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1963753323716354048/9sRoHgP7_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1773639485965615207",
+   "handle": "kaibu23_seibutu",
+   "order": 3462,
+   "url": "https://x.com/kaibu23_seibutu/status/1773639485965615207",
+   "liked_at": null,
+   "desc": "実は好きな惣菜発表ドラゴンは昔封印されたドラゴンで力を失った状態で現代に復活してテトさんに拾われて歌を出したらバズって気づいたら元の姿に戻ってたってけど今の生活に慣れすぎていつものように今日の晩ごはんをきくっていうシーンの落書き（ここまで早",
+   "likes": 18045,
+   "name": "セイブツ",
+   "text": "実は好きな惣菜発表ドラゴンは昔封印されたドラゴンで力を失った状態で現代に復活してテトさんに拾われて歌を出したらバズって気づいたら元の姿に戻ってたってけど今の生活に慣れすぎていつものように今日の晩ごはんをきくっていうシーンの落書き（ここまで早口）",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GJ07tiiaIAA_4we",
+     "fmt": "jpg",
+     "w": 832,
+     "h": 1153
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2024-03-29T09:13:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1959229510253211648/jOdnvv9Z_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "teto"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1880358130602897818",
+   "handle": "futabadoodles",
+   "order": 3463,
+   "url": "https://x.com/futabadoodles/status/1880358130602897818",
+   "liked_at": null,
+   "desc": "had like three requests for miku here you go guys",
+   "likes": 18332,
+   "name": "daily futaba doodles 🇦🇷☀️",
+   "text": "had like three requests for miku here you go guys",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhhfwVJacAEob9f",
+     "fmt": "jpg",
+     "w": 981,
+     "h": 933
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-17T20:54:48.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1888013463689330688/QfG96eRK_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1879895418492088733",
+   "handle": "nial_am",
+   "order": 3464,
+   "url": "https://x.com/nial_am/status/1879895418492088733",
+   "liked_at": null,
+   "desc": "miku",
+   "likes": 24297,
+   "name": "煮有",
+   "text": "miku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Gha66tSbwAADlqj",
+     "fmt": "jpg",
+     "w": 1360,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-16T14:16:09.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1832136564693934080/Nu9I-3co_bigger.jpg",
    "sensitive": false,
    "tags": [
     "miku"
