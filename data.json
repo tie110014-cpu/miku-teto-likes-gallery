@@ -1,16 +1,16 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-09 11:19 KST",
+ "generated": "2026-10-09 11:50 KST",
  "counts": {
-  "total": 3420,
-  "with_images": 3131,
-  "images": 3841,
+  "total": 3435,
+  "with_images": 3146,
+  "images": 3858,
   "video": 169,
   "text": 39,
   "unavailable": 80,
   "error": 1,
-  "miku": 1475,
-  "teto": 431
+  "miku": 1488,
+  "teto": 433
  },
  "posts": [
   {
@@ -103019,6 +103019,503 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/2040751302079315968/TZmIspf5_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1932062278851158090",
+   "handle": "Wantsomesnake19",
+   "order": 3420,
+   "url": "https://x.com/Wantsomesnake19/status/1932062278851158090",
+   "liked_at": null,
+   "desc": "#重音テト Hell yeah Teto version",
+   "likes": 16920,
+   "name": "Wantsomesnake",
+   "text": "#重音テト Hell yeah Teto version",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GtAQZbDbsAEAQO5",
+     "fmt": "jpg",
+     "w": 990,
+     "h": 1200
+    }
+   ],
+   "hashtags": [
+    "重音テト"
+   ],
+   "created_at": "2025-06-09T13:08:37.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1900884939899629574/HEsCfPR1_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "teto"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1795411444705759381",
+   "handle": "itoma_11010",
+   "order": 3421,
+   "url": "https://x.com/itoma_11010/status/1795411444705759381",
+   "liked_at": null,
+   "desc": "テト練",
+   "likes": 15823,
+   "name": "糸巻",
+   "text": "テト練",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GOqVMWZaUAAbenS",
+     "fmt": "jpg",
+     "w": 1024,
+     "h": 1024
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2024-05-28T11:07:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1774642287378833408/TJSN1EcL_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "teto"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1881008720932417932",
+   "handle": "KaatokunArt",
+   "order": 3422,
+   "url": "https://x.com/KaatokunArt/status/1881008720932417932",
+   "liked_at": null,
+   "desc": "my attempt at a joker miku",
+   "likes": 25481,
+   "name": "Kurt ⭐️",
+   "text": "my attempt at a joker miku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhqYawwWUAAwK4a",
+     "fmt": "jpg",
+     "w": 1094,
+     "h": 1192
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-19T16:00:01.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1738029002105688064/9i4eFNzb_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1881401304171597863",
+   "handle": "SMGold_",
+   "order": 3423,
+   "url": "https://x.com/SMGold_/status/1881401304171597863",
+   "liked_at": null,
+   "desc": "Miku Miku Miku",
+   "likes": 16772,
+   "name": "SMGold | COMMISSIONS OPEN",
+   "text": "Miku Miku Miku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhuYd4xaoAAkPSn",
+     "fmt": "jpg",
+     "w": 2699,
+     "h": 4096
+    },
+    {
+     "base": "https://pbs.twimg.com/media/GhuYeU7aUAAYdDb",
+     "fmt": "jpg",
+     "w": 2699,
+     "h": 4096
+    },
+    {
+     "base": "https://pbs.twimg.com/media/GhuYgt5aQAAAOg7",
+     "fmt": "jpg",
+     "w": 2699,
+     "h": 4096
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-20T18:00:00.000Z",
+   "media_types": [
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1852525597916016640/orlcmz4W_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1881668551985283548",
+   "handle": "NicolasGravelQC",
+   "order": 3424,
+   "url": "https://x.com/NicolasGravelQC/status/1881668551985283548",
+   "liked_at": null,
+   "desc": "🖤 More Duchess Miku! ✨ #HatsuneMiku #VOCALOID #PoisonousRomance",
+   "likes": 32521,
+   "name": "Nico Neko Art",
+   "text": "🖤 More Duchess Miku! ✨ #HatsuneMiku #VOCALOID #PoisonousRomance",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Gh0HQD6XoAAqDMI",
+     "fmt": "jpg",
+     "w": 2180,
+     "h": 2888
+    }
+   ],
+   "hashtags": [
+    "HatsuneMiku",
+    "VOCALOID",
+    "PoisonousRomance"
+   ],
+   "created_at": "2025-01-21T11:41:57.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2032269012566949888/-oC3zXX7_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1882209742367633887",
+   "handle": "dyarikku",
+   "order": 3425,
+   "url": "https://x.com/dyarikku/status/1882209742367633887",
+   "liked_at": null,
+   "desc": "I made a glorpi miku ref sheet 👽",
+   "likes": 67921,
+   "name": "Rikku リック✗",
+   "text": "I made a glorpi miku ref sheet 👽",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Gh7zbfCXkAAA0PM",
+     "fmt": "jpg",
+     "w": 2219,
+     "h": 1200
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-22T23:32:27.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2099887978373873664/ght_WhRR_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1882460322214363155",
+   "handle": "NasukiChan",
+   "order": 3426,
+   "url": "https://x.com/NasukiChan/status/1882460322214363155",
+   "liked_at": null,
+   "desc": "Hatsune Miku + Draculaura Dracumiku #art #MonsterHigh #初音ミク",
+   "likes": 20436,
+   "name": "Paula 💙",
+   "text": "Hatsune Miku + Draculaura Dracumiku #art #MonsterHigh #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Gh_W3y-XYAEDBFe",
+     "fmt": "jpg",
+     "w": 700,
+     "h": 1093
+    }
+   ],
+   "hashtags": [
+    "art",
+    "MonsterHigh",
+    "初音ミク"
+   ],
+   "created_at": "2025-01-23T16:08:09.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2104921959138004993/5BM-CTpU_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1883227628120981993",
+   "handle": "butian8",
+   "order": 3427,
+   "url": "https://x.com/butian8/status/1883227628120981993",
+   "liked_at": null,
+   "desc": "miku",
+   "likes": 34699,
+   "name": "butian",
+   "text": "miku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GiKRjC0akAAidfa",
+     "fmt": "jpg",
+     "w": 1280,
+     "h": 1604
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-25T18:57:09.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1783211406739058691/868RHJ-p_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1883265371605778914",
+   "handle": "Zambiie_",
+   "order": 3428,
+   "url": "https://x.com/Zambiie_/status/1883265371605778914",
+   "liked_at": null,
+   "desc": "Miku Joker for fun! 🤡 ( design based on NEAT0QUEEN's miku! )",
+   "likes": 17933,
+   "name": "💀 Zambiie",
+   "text": "Miku Joker for fun! 🤡 ( design based on NEAT0QUEEN's miku! )",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GiKzim3WEAA9mxd",
+     "fmt": "jpg",
+     "w": 1200,
+     "h": 1938
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-25T21:27:08.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2085541921577918464/jRT_gpcz_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1816765478007898366",
+   "handle": "lilium_Susan",
+   "order": 3429,
+   "url": "https://x.com/lilium_Susan/status/1816765478007898366",
+   "liked_at": null,
+   "desc": "頑張りたい時に､､!!! 姫ぱっつん初音ミクさん",
+   "likes": 16233,
+   "name": "花宿スー",
+   "text": "頑張りたい時に､､!!! 姫ぱっつん初音ミクさん",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GTZykxdagAMLYop",
+     "fmt": "jpg",
+     "w": 1161,
+     "h": 1280
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2024-07-26T09:20:18.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1908061571038982144/9uAx1X_e_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1816790785322549562",
+   "handle": "raysemochi",
+   "order": 3430,
+   "url": "https://x.com/raysemochi/status/1816790785322549562",
+   "liked_at": null,
+   "desc": "𝄞 #初音ミク",
+   "likes": 44732,
+   "name": "Ray",
+   "text": "𝄞 #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GTaGv0ZaQAA4zwq",
+     "fmt": "jpg",
+     "w": 1125,
+     "h": 2000
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-07-26T11:00:52.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1897076266043629570/LUa8fP7l_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1821795414498218361",
+   "handle": "xuaninin",
+   "order": 3431,
+   "url": "https://x.com/xuaninin/status/1821795414498218361",
+   "liked_at": null,
+   "desc": "🏁🏎️🏎️ #初音ミク",
+   "likes": 21483,
+   "name": "Lirisy_",
+   "text": "🏁🏎️🏎️ #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GUhROlxa8AAagSH",
+     "fmt": "jpg",
+     "w": 1240,
+     "h": 1754
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-08-09T06:27:28.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1972349212642934784/2iquUSZI_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1818968130036928833",
+   "handle": "bikkuridondoko",
+   "order": 3432,
+   "url": "https://x.com/bikkuridondoko/status/1818968130036928833",
+   "liked_at": null,
+   "desc": "なんか色々違う初音ミクが届いた リプに差分あり ⬇️⬇️⬇️",
+   "likes": 21140,
+   "name": "a",
+   "text": "なんか色々違う初音ミクが届いた リプに差分あり ⬇️⬇️⬇️",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GT5F3yxa8AAVT8a",
+     "fmt": "jpg",
+     "w": 1535,
+     "h": 2047
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2024-08-01T11:12:51.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2090025286847102976/sM9F_zqJ_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1820246666706112823",
+   "handle": "pattimon36",
+   "order": 3433,
+   "url": "https://x.com/pattimon36/status/1820246666706112823",
+   "liked_at": null,
+   "desc": "クランプに挑戦中 #初音ミク",
+   "likes": 42576,
+   "name": "200°F✧ご依頼募集中",
+   "text": "クランプに挑戦中 #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GULQPhRboAAP3tY",
+     "fmt": "jpg",
+     "w": 3600,
+     "h": 2300
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-08-04T23:53:18.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1646175534030757891/H0QAUZ-w_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1820945658230263926",
+   "handle": "NIGUFUGU_WoW719",
+   "order": 3434,
+   "url": "https://x.com/NIGUFUGU_WoW719/status/1820945658230263926",
+   "liked_at": null,
+   "desc": "おかえりくださいませ！💔 #初音ミク",
+   "likes": 17411,
+   "name": "にぐふぐ",
+   "text": "おかえりくださいませ！💔 #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GUVMbGaa8AETBVI",
+     "fmt": "jpg",
+     "w": 1685,
+     "h": 1973
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-08-06T22:10:51.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2036439888778895362/h7fwuErF_bigger.jpg",
    "sensitive": false,
    "tags": [
     "miku"
