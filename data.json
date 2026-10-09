@@ -1,16 +1,16 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-09 11:50 KST",
+ "generated": "2026-10-09 12:49 KST",
  "counts": {
-  "total": 3435,
-  "with_images": 3146,
-  "images": 3858,
+  "total": 3450,
+  "with_images": 3161,
+  "images": 3873,
   "video": 169,
   "text": 39,
   "unavailable": 80,
   "error": 1,
-  "miku": 1488,
-  "teto": 433
+  "miku": 1502,
+  "teto": 434
  },
  "posts": [
   {
@@ -103516,6 +103516,489 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/2036439888778895362/h7fwuErF_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1820013214794756511",
+   "handle": "ment502",
+   "order": 3435,
+   "url": "https://x.com/ment502/status/1820013214794756511",
+   "liked_at": null,
+   "desc": "#初音ミク",
+   "likes": 16495,
+   "name": "门徒",
+   "text": "#初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GUH8W9qXwAAKZmC",
+     "fmt": "jpg",
+     "w": 2333,
+     "h": 1417
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-08-04T08:25:39.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1852692558901858304/MpgyJzaT_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1880314147813933205",
+   "handle": "SMGold_",
+   "order": 3436,
+   "url": "https://x.com/SMGold_/status/1880314147813933205",
+   "liked_at": null,
+   "desc": "Hatsune Miku",
+   "likes": 24999,
+   "name": "SMGold | COMMISSIONS OPEN",
+   "text": "Hatsune Miku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhfyhscacAEE8na",
+     "fmt": "jpg",
+     "w": 791,
+     "h": 1200
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-17T18:00:02.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1852525597916016640/orlcmz4W_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1758793425279995974",
+   "handle": "cosmobsp",
+   "order": 3437,
+   "url": "https://x.com/cosmobsp/status/1758793425279995974",
+   "liked_at": null,
+   "desc": "テトさんをウチに迎えました",
+   "likes": 25173,
+   "name": "cosMo@暴走P",
+   "text": "テトさんをウチに迎えました",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GGh9E4LbcAA0kuw",
+     "fmt": "jpg",
+     "w": 1500,
+     "h": 1500
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2024-02-17T10:00:04.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1563860102439993344/OYdmpiHB_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "teto"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1813908328008872419",
+   "handle": "a1KG4zqQ6iYoFod",
+   "order": 3438,
+   "url": "https://x.com/a1KG4zqQ6iYoFod/status/1813908328008872419",
+   "liked_at": null,
+   "desc": "#初音ミク",
+   "likes": 25576,
+   "name": "中级妖怪s",
+   "text": "#初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GSxL_06awAAMFCJ",
+     "fmt": "jpg",
+     "w": 2773,
+     "h": 4096
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2024-07-18T12:07:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1893826570126790656/N7RWGFs1_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "2005220013809308062",
+   "handle": "ELENAmkzz",
+   "order": 3439,
+   "url": "https://x.com/ELENAmkzz/status/2005220013809308062",
+   "liked_at": null,
+   "desc": "Hatsune Miku is truly a wonderful character. #初音ミク",
+   "likes": 26253,
+   "name": "ElenaMK",
+   "text": "Hatsune Miku is truly a wonderful character. #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/G9P44Z_bMAA-33l",
+     "fmt": "jpg",
+     "w": 1832,
+     "h": 2500
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2025-12-28T10:11:21.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2004632974382505984/3eAYPOT8_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1811153220976398739",
+   "handle": "nikibiii",
+   "order": 3440,
+   "url": "https://x.com/nikibiii/status/1811153220976398739",
+   "liked_at": null,
+   "desc": "L/M/S ＃初音ミク #HatsuneMiku",
+   "likes": 29346,
+   "name": "nik_ibi（にきび）",
+   "text": "L/M/S ＃初音ミク #HatsuneMiku",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GSKBxycaUAIyKfn",
+     "fmt": "jpg",
+     "w": 2805,
+     "h": 2310
+    }
+   ],
+   "hashtags": [
+    "初音ミク",
+    "HatsuneMiku"
+   ],
+   "created_at": "2024-07-10T21:39:12.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1668129046629322752/HwZyJhzm_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1814497180289585525",
+   "handle": "su_no090",
+   "order": 3441,
+   "url": "https://x.com/su_no090/status/1814497180289585525",
+   "liked_at": null,
+   "desc": "超高校級の歌姫 初音ミク",
+   "likes": 34591,
+   "name": "すの",
+   "text": "超高校級の歌姫 初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GS5jkOragAAwNNM",
+     "fmt": "jpg",
+     "w": 3200,
+     "h": 2016
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2024-07-20T03:06:54.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2034267270323879938/qodo-Thm_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1879632012715393025",
+   "handle": "naluxk",
+   "order": 3442,
+   "url": "https://x.com/naluxk/status/1879632012715393025",
+   "liked_at": null,
+   "desc": "Miku Miku Beam!!!",
+   "likes": 51213,
+   "name": "Naluxk commissions OPEN‼️",
+   "text": "Miku Miku Beam!!!",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhXLL4XXkAAAJzu",
+     "fmt": "jpg",
+     "w": 2731,
+     "h": 4096
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-15T20:49:28.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1906573270586941440/FltowB-o_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1880676528549138644",
+   "handle": "AGoshiki",
+   "order": 3443,
+   "url": "https://x.com/AGoshiki/status/1880676528549138644",
+   "liked_at": null,
+   "desc": "Miku Miku Peeeew #Nekomiku #FortniteArt #初音ミク",
+   "likes": 38417,
+   "name": "Skynimier 〃 Vgen Comms OPEN ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.",
+   "text": "Miku Miku Peeeew #Nekomiku #FortniteArt #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Ghh6kRLacAEzwr2",
+     "fmt": "jpg",
+     "w": 2894,
+     "h": 4093
+    }
+   ],
+   "hashtags": [
+    "Nekomiku",
+    "FortniteArt",
+    "初音ミク"
+   ],
+   "created_at": "2025-01-18T18:00:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1470658349591109640/rly7FoHE_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1879585590636650727",
+   "handle": "BombsAh0y",
+   "order": 3444,
+   "url": "https://x.com/BombsAh0y/status/1879585590636650727",
+   "liked_at": null,
+   "desc": "Fortnite Jonesy impressed by Miku Hatsune vape skills",
+   "likes": 60290,
+   "name": "💥💣Big Grin Distributor💣💥",
+   "text": "Fortnite Jonesy impressed by Miku Hatsune vape skills",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhV-T_bW8AENK9Z",
+     "fmt": "jpg",
+     "w": 1200,
+     "h": 1600
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-15T17:45:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2086014042129203200/Sd6J_jVX_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1880904166593495302",
+   "handle": "froflossy",
+   "order": 3445,
+   "url": "https://x.com/froflossy/status/1880904166593495302",
+   "liked_at": null,
+   "desc": "Lilly of the valley miku concept sketch yay",
+   "likes": 66050,
+   "name": "flossy🌺",
+   "text": "Lilly of the valley miku concept sketch yay",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhpQXVga0AE03tk",
+     "fmt": "jpg",
+     "w": 2048,
+     "h": 1386
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-19T09:04:33.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1996133987031650304/uMoERXGQ_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1879709568915439753",
+   "handle": "_mizah",
+   "order": 3446,
+   "url": "https://x.com/_mizah/status/1879709568915439753",
+   "liked_at": null,
+   "desc": "It's Hatsune Miku time! 🔊🎶 #初音ミク #Fortnite",
+   "likes": 71317,
+   "name": "Mizah🌸",
+   "text": "It's Hatsune Miku time! 🔊🎶 #初音ミク #Fortnite",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhYQ5HgWcAAy75p",
+     "fmt": "jpg",
+     "w": 3410,
+     "h": 3895
+    }
+   ],
+   "hashtags": [
+    "初音ミク",
+    "Fortnite"
+   ],
+   "created_at": "2025-01-16T01:57:39.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2095663599817736193/O16hxX3c_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1880671279021441236",
+   "handle": "mika01shiyaaa",
+   "order": 3447,
+   "url": "https://x.com/mika01shiyaaa/status/1880671279021441236",
+   "liked_at": null,
+   "desc": "Hatsune miku from Fortnite",
+   "likes": 72253,
+   "name": "mika",
+   "text": "Hatsune miku from Fortnite",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/Ghl8jzDXIAAj2ur",
+     "fmt": "jpg",
+     "w": 1540,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-18T17:39:08.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2044098110230597632/5188hJUq_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1879649864973455611",
+   "handle": "koginaki",
+   "order": 3448,
+   "url": "https://x.com/koginaki/status/1879649864973455611",
+   "liked_at": null,
+   "desc": "where miku droppin",
+   "likes": 83932,
+   "name": "喵 · mel #VOTESOLOMON",
+   "text": "where miku droppin",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GhXbU6fXwAAVGSh",
+     "fmt": "jpg",
+     "w": 1500,
+     "h": 1500
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2025-01-15T22:00:24.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1999226751512113155/6n0-4j6L_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "1809526242347229389",
+   "handle": "nekohoshi_neko",
+   "order": 3449,
+   "url": "https://x.com/nekohoshi_neko/status/1809526242347229389",
+   "liked_at": null,
+   "desc": "初音ミク #メズマライザー",
+   "likes": 122093,
+   "name": "ねこねこ",
+   "text": "初音ミク #メズマライザー",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/GRy6hgkacAAXPIc",
+     "fmt": "jpg",
+     "w": 1831,
+     "h": 1675
+    }
+   ],
+   "hashtags": [
+    "メズマライザー"
+   ],
+   "created_at": "2024-07-06T09:54:10.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1932091819107758080/0rTCFSQk_bigger.jpg",
    "sensitive": false,
    "tags": [
     "miku"
