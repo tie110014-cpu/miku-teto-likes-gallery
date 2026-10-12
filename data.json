@@ -1,16 +1,16 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-12 21:14 KST",
+ "generated": "2026-10-12 22:52 KST",
  "counts": {
-  "total": 3991,
-  "with_images": 3693,
-  "images": 4457,
+  "total": 3996,
+  "with_images": 3698,
+  "images": 4462,
   "video": 177,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1920,
-  "teto": 491
+  "miku": 1922,
+  "teto": 492
  },
  "posts": [
   {
@@ -121393,6 +121393,158 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/2107704898989232129/92o6l4Ty_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109602149936271840",
+   "handle": "______moka____",
+   "order": 3991,
+   "url": "https://x.com/______moka____/status/2109602149936271840",
+   "liked_at": null,
+   "desc": "",
+   "likes": 938,
+   "name": "Moca",
+   "text": "",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUbP-PXaEAAZ-Qj",
+     "fmt": "jpg",
+     "w": 1536,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-12T11:08:41.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2104860076284817408/bMUALefn_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109607723256193475",
+   "handle": "Ren256_",
+   "order": 3992,
+   "url": "https://x.com/Ren256_/status/2109607723256193475",
+   "liked_at": null,
+   "desc": "も̸̖͎̃し̶͚̹̭̮̥͒̋̑も̴͓͛͂̈̒͛̔し̶̨̞̬̳͗̚͠も̷̮̲̅̊し̸̰͎̬̝͑̒̍̈́̓も̴̖̔̄、̷̖͚̫̇̔̊͝ͅ聞̵̘̭̈́͊̀̓͝͝こ̷̨̪̳͕̈͋̓え̵̠̦̬͌̆ま̷͚̏̒̂̽̊͝す̴̱̦̻̳̏͗̅̍か̴̡̦͕̯̭͓",
+   "likes": 71,
+   "name": "*ℝen*",
+   "text": "も̸̖͎̃し̶͚̹̭̮̥͒̋̑も̴͓͛͂̈̒͛̔し̶̨̞̬̳͗̚͠も̷̮̲̅̊し̸̰͎̬̝͑̒̍̈́̓も̴̖̔̄、̷̖͚̫̇̔̊͝ͅ聞̵̘̭̈́͊̀̓͝͝こ̷̨̪̳͕̈͋̓え̵̠̦̬͌̆ま̷͚̏̒̂̽̊͝す̴̱̦̻̳̏͗̅̍か̴̡̦͕̯̭͓̉̍？̷͇̺̹̲̑̓̓́̈́̋͜ ̵̡̜̮̯̫̒̃̀́ ̶͉̟̞͚̗̍̑̽",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUbVCFObUAAiIGO",
+     "fmt": "jpg",
+     "w": 1345,
+     "h": 1819
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-12T11:30:50.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1966597458647248896/q6TTK4Kl_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109344847601848447",
+   "handle": "cremanata_art",
+   "order": 3993,
+   "url": "https://x.com/cremanata_art/status/2109344847601848447",
+   "liked_at": null,
+   "desc": "teto miku miku teto",
+   "likes": 12610,
+   "name": "crema 💕",
+   "text": "teto miku miku teto",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUXlGanWwAAgTdB",
+     "fmt": "jpg",
+     "w": 2488,
+     "h": 3216
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-11T18:06:16.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1677006306358485000/0pPkfZmk_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku",
+    "teto"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "2109309509592301674",
+   "handle": "xia__png",
+   "order": 3994,
+   "url": "https://x.com/xia__png/status/2109309509592301674",
+   "liked_at": null,
+   "desc": "ラビホミクちゃん #初音ミク",
+   "likes": 4834,
+   "name": "わんわん☆ロック",
+   "text": "ラビホミクちゃん #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUXFvIfbsAE7EJJ",
+     "fmt": "jpg",
+     "w": 1047,
+     "h": 1502
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2026-10-11T15:45:50.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2106400067955699712/4csdmXDf_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "2109565984420049229",
+   "handle": "johnlim_e",
+   "order": 3995,
+   "url": "https://x.com/johnlim_e/status/2109565984420049229",
+   "liked_at": null,
+   "desc": "🧐⚡️🐭",
+   "likes": 4169,
+   "name": "존림",
+   "text": "🧐⚡️🐭",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUauop9aoAA1CYh",
+     "fmt": "jpg",
+     "w": 2894,
+     "h": 4093
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-12T08:44:59.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1652359148544335872/RXR8emG4_bigger.jpg",
    "sensitive": false,
    "tags": [],
    "kind": "image"
