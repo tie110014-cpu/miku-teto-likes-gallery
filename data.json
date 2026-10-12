@@ -1,15 +1,15 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-12 20:35 KST",
+ "generated": "2026-10-12 21:14 KST",
  "counts": {
-  "total": 3988,
-  "with_images": 3690,
-  "images": 4454,
+  "total": 3991,
+  "with_images": 3693,
+  "images": 4457,
   "video": 177,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1919,
+  "miku": 1920,
   "teto": 491
  },
  "posts": [
@@ -121304,6 +121304,95 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/1643824923683717121/fmpjBpsk_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2043724381214396869",
+   "handle": "IronicnotSavage",
+   "order": 3988,
+   "url": "https://x.com/IronicnotSavage/status/2043724381214396869",
+   "liked_at": null,
+   "desc": "Every Miku is canon",
+   "likes": 152145,
+   "name": "IronicnotSavage",
+   "text": "Every Miku is canon",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HFzEWnuXkAA2_Aq",
+     "fmt": "jpg",
+     "w": 1764,
+     "h": 2508
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-04-13T16:13:57.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1975659346223648768/Ve9KIzMr_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "2105573864684347600",
+   "handle": "Sentotwts",
+   "order": 3989,
+   "url": "https://x.com/Sentotwts/status/2105573864684347600",
+   "liked_at": null,
+   "desc": "Which is your favourite?",
+   "likes": 44,
+   "name": "Isuzu Sento",
+   "text": "Which is your favourite?",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HTiARCEaMAIu0iS",
+     "fmt": "jpg",
+     "w": 1200,
+     "h": 798
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-01T08:21:43.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2090345191333085184/rNjLF1ji_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109303613340459253",
+   "handle": "O_LEM2",
+   "order": 3990,
+   "url": "https://x.com/O_LEM2/status/2109303613340459253",
+   "liked_at": null,
+   "desc": "200人ほど増えちゃいましたが！ 22222フォロワー⬆️ありがとうございます😽💕",
+   "likes": 2210,
+   "name": "鎮痛剤",
+   "text": "200人ほど増えちゃいましたが！ 22222フォロワー⬆️ありがとうございます😽💕",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUXAdI5bcAAnOn7",
+     "fmt": "jpg",
+     "w": 3016,
+     "h": 2034
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-11T15:22:25.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2107704898989232129/92o6l4Ty_bigger.jpg",
    "sensitive": false,
    "tags": [],
    "kind": "image"
