@@ -1,10 +1,10 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-12 22:52 KST",
+ "generated": "2026-10-14 04:33 KST",
  "counts": {
-  "total": 3996,
-  "with_images": 3698,
-  "images": 4462,
+  "total": 3998,
+  "with_images": 3700,
+  "images": 4464,
   "video": 177,
   "text": 40,
   "unavailable": 80,
@@ -121545,6 +121545,64 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/1652359148544335872/RXR8emG4_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109622610082591217",
+   "handle": "Notsu311406",
+   "order": 3996,
+   "url": "https://x.com/Notsu311406/status/2109622610082591217",
+   "liked_at": null,
+   "desc": "",
+   "likes": 1158,
+   "name": "Notsu",
+   "text": "",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUbilOcaoAAhQgt",
+     "fmt": "jpg",
+     "w": 1170,
+     "h": 1752
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-12T12:29:59.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2108414686232530944/7QDfnhGX_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109988294822170709",
+   "handle": "O_LEM2",
+   "order": 3997,
+   "url": "https://x.com/O_LEM2/status/2109988294822170709",
+   "liked_at": null,
+   "desc": "こんな世界線もあり？ttmk",
+   "likes": 10639,
+   "name": "鎮痛剤",
+   "text": "こんな世界線もあり？ttmk",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUgvK3macAAShcP",
+     "fmt": "jpg",
+     "w": 1607,
+     "h": 2512
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-13T12:43:05.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2107704898989232129/92o6l4Ty_bigger.jpg",
    "sensitive": false,
    "tags": [],
    "kind": "image"
