@@ -1,16 +1,16 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-14 15:26 KST",
+ "generated": "2026-10-15 08:21 KST",
  "counts": {
-  "total": 4002,
-  "with_images": 3704,
-  "images": 4471,
+  "total": 4005,
+  "with_images": 3707,
+  "images": 4474,
   "video": 177,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1922,
-  "teto": 492
+  "miku": 1923,
+  "teto": 493
  },
  "posts": [
   {
@@ -121744,6 +121744,96 @@
    "avatar": "https://pbs.twimg.com/profile_images/1844717808388870144/9R_VOJXH_bigger.png",
    "sensitive": false,
    "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109598381865853023",
+   "handle": "toubunmasi02",
+   "order": 4002,
+   "url": "https://x.com/toubunmasi02/status/2109598381865853023",
+   "liked_at": null,
+   "desc": "pixivFANBOXを更新しました！",
+   "likes": 1076,
+   "name": "まか",
+   "text": "pixivFANBOXを更新しました！",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUbMjA0agAEGiJh",
+     "fmt": "jpg",
+     "w": 771,
+     "h": 547
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-12T10:53:43.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2066214437363875840/5WUGdXvo_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109891991693856951",
+   "handle": "chochoske",
+   "order": 4003,
+   "url": "https://x.com/chochoske/status/2109891991693856951",
+   "liked_at": null,
+   "desc": "🩷",
+   "likes": 2606,
+   "name": "쵸쵸-チョチョ",
+   "text": "🩷",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUfXieYbwAA23eb",
+     "fmt": "jpg",
+     "w": 1500,
+     "h": 745
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-13T06:20:25.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1400954778004250624/RUDGF_Dn_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2110295722834952600",
+   "handle": "Animation_nyo",
+   "order": 4004,
+   "url": "https://x.com/Animation_nyo/status/2110295722834952600",
+   "liked_at": null,
+   "desc": "敵の性別 (ツンデレにとってヤンデレは天敵だよね〜って漫画(2枚目)) ミクがヤンデレでテトがツンデレ",
+   "likes": 4284,
+   "name": "アニメーにょン",
+   "text": "敵の性別 (ツンデレにとってヤンデレは天敵だよね〜って漫画(2枚目)) ミクがヤンデレでテトがツンデレ",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUlGxf2bMAAxVrW",
+     "fmt": "jpg",
+     "w": 1536,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-14T09:04:42.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2033108326993850368/xs_6Fxd-_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku",
+    "teto"
+   ],
    "kind": "image"
   }
  ],
