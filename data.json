@@ -1,10 +1,10 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-14 12:17 KST",
+ "generated": "2026-10-14 15:26 KST",
  "counts": {
-  "total": 4000,
-  "with_images": 3702,
-  "images": 4466,
+  "total": 4002,
+  "with_images": 3704,
+  "images": 4471,
   "video": 177,
   "text": 40,
   "unavailable": 80,
@@ -121661,6 +121661,87 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/1600389966424526849/3CNUEI9g_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2110054976009712119",
+   "handle": "thikuwa_bu",
+   "order": 4000,
+   "url": "https://x.com/thikuwa_bu/status/2110054976009712119",
+   "liked_at": null,
+   "desc": "おやすみ〜😪",
+   "likes": 11841,
+   "name": "いつもありがとう",
+   "text": "おやすみ〜😪",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUhr0LjasAAi9X1",
+     "fmt": "jpg",
+     "w": 1850,
+     "h": 2037
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HUhr0LhbwAA9VvY",
+     "fmt": "jpg",
+     "w": 2307,
+     "h": 1960
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HUhr0Lha0AANq-P",
+     "fmt": "jpg",
+     "w": 2195,
+     "h": 1965
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HUhr0Lha4AAiJII",
+     "fmt": "jpg",
+     "w": 3077,
+     "h": 3399
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-13T17:08:03.000Z",
+   "media_types": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2104226056500826112/kOIvUndc_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109692931288494314",
+   "handle": "000Rune000",
+   "order": 4001,
+   "url": "https://x.com/000Rune000/status/2109692931288494314",
+   "liked_at": null,
+   "desc": "Malfoid kiss #Malfoid",
+   "likes": 90988,
+   "name": "RuneGameDev",
+   "text": "Malfoid kiss #Malfoid",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUciiCIaoAEqr2T",
+     "fmt": "jpg",
+     "w": 2640,
+     "h": 3034
+    }
+   ],
+   "hashtags": [
+    "Malfoid"
+   ],
+   "created_at": "2026-10-12T17:09:25.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1844717808388870144/9R_VOJXH_bigger.png",
    "sensitive": false,
    "tags": [],
    "kind": "image"
