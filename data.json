@@ -1,10 +1,10 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-14 04:33 KST",
+ "generated": "2026-10-14 12:17 KST",
  "counts": {
-  "total": 3998,
-  "with_images": 3700,
-  "images": 4464,
+  "total": 4000,
+  "with_images": 3702,
+  "images": 4466,
   "video": 177,
   "text": 40,
   "unavailable": 80,
@@ -121603,6 +121603,64 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/2107704898989232129/92o6l4Ty_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2109585530535227870",
+   "handle": "samowasabi2",
+   "order": 3998,
+   "url": "https://x.com/samowasabi2/status/2109585530535227870",
+   "liked_at": null,
+   "desc": "撮影後 ｢これいつ出してくれるの、？｣",
+   "likes": 1898,
+   "name": "さーもんわさび🍙@C109申し込み中",
+   "text": "撮影後 ｢これいつ出してくれるの、？｣",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUbA2UkboAAW2w7",
+     "fmt": "jpg",
+     "w": 700,
+     "h": 1024
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-12T10:02:39.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2070823266051399680/KY_lgRuB_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2110151477067207010",
+   "handle": "Blueberry_Hedy",
+   "order": 3999,
+   "url": "https://x.com/Blueberry_Hedy/status/2110151477067207010",
+   "liked_at": null,
+   "desc": "💛🧡",
+   "likes": 725,
+   "name": "蓝莓Hedy",
+   "text": "💛🧡",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUjDlGubAAA3NIO",
+     "fmt": "jpg",
+     "w": 1606,
+     "h": 1606
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-13T23:31:31.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1600389966424526849/3CNUEI9g_bigger.jpg",
    "sensitive": false,
    "tags": [],
    "kind": "image"
