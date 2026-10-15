@@ -1,11 +1,11 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-15 08:21 KST",
+ "generated": "2026-10-15 10:17 KST",
  "counts": {
-  "total": 4005,
-  "with_images": 3707,
-  "images": 4474,
-  "video": 177,
+  "total": 4008,
+  "with_images": 3709,
+  "images": 4476,
+  "video": 178,
   "text": 40,
   "unavailable": 80,
   "error": 1,
@@ -121835,6 +121835,64 @@
     "teto"
    ],
    "kind": "image"
+  },
+  {
+   "id": "2110366066946007344",
+   "handle": "manya_sora",
+   "order": 4005,
+   "url": "https://x.com/manya_sora/status/2110366066946007344",
+   "liked_at": null,
+   "desc": "頭ぐちゃになりたいほどのレンくん",
+   "likes": 1634,
+   "name": "まにゃ🐾",
+   "text": "頭ぐちゃになりたいほどのレンくん",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUmGv9naIAAeuYF",
+     "fmt": "jpg",
+     "w": 1464,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-14T13:44:13.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1817914957490737152/GkJD5OpH_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2110322902516306320",
+   "handle": "orkaj_93",
+   "order": 4006,
+   "url": "https://x.com/orkaj_93/status/2110322902516306320",
+   "liked_at": null,
+   "desc": "大人リンちゃん🧡",
+   "likes": 3635,
+   "name": "愚味",
+   "text": "大人リンちゃん🧡",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUlffmibMAAJTIk",
+     "fmt": "jpg",
+     "w": 1424,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-14T10:52:42.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2104347594218770432/orAPO0qB_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
   }
  ],
  "no_image": [
@@ -124519,6 +124577,15 @@
    "desc": "ksn猫耳つけてるけどネコじゃないです🥲ド攻めだよタチだようちのとこのksnは🥲",
    "kind": "text",
    "order": 3986
+  },
+  {
+   "id": "2110053451019206809",
+   "handle": "illuzianoid",
+   "url": "https://x.com/illuzianoid/status/2110053451019206809",
+   "likes": 33094,
+   "desc": "Glacius ~ 😘💋 #Malfoy #Malfoid #HarryPotter",
+   "kind": "video",
+   "order": 4007
   }
  ]
 }
