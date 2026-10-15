@@ -1,10 +1,10 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-15 10:17 KST",
+ "generated": "2026-10-16 01:22 KST",
  "counts": {
-  "total": 4008,
-  "with_images": 3709,
-  "images": 4476,
+  "total": 4009,
+  "with_images": 3710,
+  "images": 4477,
   "video": 178,
   "text": 40,
   "unavailable": 80,
@@ -121890,6 +121890,35 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/2104347594218770432/orAPO0qB_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2110704507739144383",
+   "handle": "jjeogii",
+   "order": 4008,
+   "url": "https://x.com/jjeogii/status/2110704507739144383",
+   "liked_at": null,
+   "desc": "数時間前",
+   "likes": 2483,
+   "name": "JJEOGI",
+   "text": "数時間前",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HUq6j3wakAAE1JP",
+     "fmt": "jpg",
+     "w": 2480,
+     "h": 3040
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-15T12:09:04.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2047304015399272448/fhCMZXkW_bigger.jpg",
    "sensitive": false,
    "tags": [],
    "kind": "image"
