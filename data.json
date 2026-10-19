@@ -1,15 +1,15 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-16 01:22 KST",
+ "generated": "2026-10-19 09:19 KST",
  "counts": {
-  "total": 4009,
-  "with_images": 3710,
-  "images": 4477,
+  "total": 4013,
+  "with_images": 3714,
+  "images": 4481,
   "video": 178,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1923,
+  "miku": 1924,
   "teto": 493
  },
  "posts": [
@@ -121919,6 +121919,126 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/2047304015399272448/fhCMZXkW_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2111753710871392363",
+   "handle": "hoshisaki_candy",
+   "order": 4009,
+   "url": "https://x.com/hoshisaki_candy/status/2111753710871392363",
+   "liked_at": null,
+   "desc": "配送事故 #初音ミク",
+   "likes": 1608,
+   "name": "ほしさき🍭‎",
+   "text": "配送事故 #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HU50zogb0AAawGN",
+     "fmt": "jpg",
+     "w": 2000,
+     "h": 3000
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2026-10-18T09:38:13.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2056583726180823040/FZvQLLKR_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "2111954421622198298",
+   "handle": "TANKII021",
+   "order": 4010,
+   "url": "https://x.com/TANKII021/status/2111954421622198298",
+   "liked_at": null,
+   "desc": "本能的な恐怖",
+   "likes": 415,
+   "name": "たんきー",
+   "text": "本能的な恐怖",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HU8rBnjbgAAzIfg",
+     "fmt": "jpg",
+     "w": 2480,
+     "h": 3508
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-18T22:55:46.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2000969472493150212/8ijt6fsP_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2111511382030004513",
+   "handle": "MayngoMay",
+   "order": 4011,
+   "url": "https://x.com/MayngoMay/status/2111511382030004513",
+   "liked_at": null,
+   "desc": "\"Emilia\"",
+   "likes": 23090,
+   "name": "MayngoMay",
+   "text": "\"Emilia\"",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HU2YZw4WYAAFXfH",
+     "fmt": "jpg",
+     "w": 2549,
+     "h": 3925
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-17T17:35:18.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2075497540431040512/bbIXl8pZ_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2111376218205671574",
+   "handle": "koharuku1014",
+   "order": 4012,
+   "url": "https://x.com/koharuku1014/status/2111376218205671574",
+   "liked_at": null,
+   "desc": "少女A",
+   "likes": 3729,
+   "name": "こはるく",
+   "text": "少女A",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HU0desEbUAAeGha",
+     "fmt": "jpg",
+     "w": 1536,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-17T08:38:12.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2090450663327371264/N39waxrt_bigger.jpg",
    "sensitive": false,
    "tags": [],
    "kind": "image"
