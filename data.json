@@ -1,15 +1,15 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-19 09:19 KST",
+ "generated": "2026-10-19 11:22 KST",
  "counts": {
-  "total": 4013,
-  "with_images": 3714,
-  "images": 4481,
+  "total": 4014,
+  "with_images": 3715,
+  "images": 4482,
   "video": 178,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1924,
+  "miku": 1925,
   "teto": 493
  },
  "posts": [
@@ -122041,6 +122041,39 @@
    "avatar": "https://pbs.twimg.com/profile_images/2090450663327371264/N39waxrt_bigger.jpg",
    "sensitive": false,
    "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2111759442543104481",
+   "handle": "cocotte_ai",
+   "order": 4013,
+   "url": "https://x.com/cocotte_ai/status/2111759442543104481",
+   "liked_at": null,
+   "desc": "#初音ミク 💚❤💛🩷",
+   "likes": 1563,
+   "name": "poco",
+   "text": "#初音ミク 💚❤💛🩷",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HU0NIDRbMAAUBnQ",
+     "fmt": "jpg",
+     "w": 1472,
+     "h": 2112
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2026-10-18T10:01:00.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1725631551776653312/HQUTj_70_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
    "kind": "image"
   }
  ],
