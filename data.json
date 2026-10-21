@@ -1,15 +1,15 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-19 11:22 KST",
+ "generated": "2026-10-21 11:17 KST",
  "counts": {
-  "total": 4014,
-  "with_images": 3715,
-  "images": 4482,
-  "video": 178,
+  "total": 4018,
+  "with_images": 3718,
+  "images": 4485,
+  "video": 179,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1925,
+  "miku": 1926,
   "teto": 493
  },
  "posts": [
@@ -122075,6 +122075,97 @@
     "miku"
    ],
    "kind": "image"
+  },
+  {
+   "id": "2112455230315250004",
+   "handle": "toubunmasi02",
+   "order": 4015,
+   "url": "https://x.com/toubunmasi02/status/2112455230315250004",
+   "liked_at": null,
+   "desc": "セコムが激しい弟",
+   "likes": 4767,
+   "name": "まか@ボーマスL07",
+   "text": "セコムが激しい弟",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HVDy1bfaMAAwtJN",
+     "fmt": "jpg",
+     "w": 1041,
+     "h": 1500
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-20T08:05:49.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2066214437363875840/5WUGdXvo_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2112086726382608774",
+   "handle": "okakitabehodai4",
+   "order": 4016,
+   "url": "https://x.com/okakitabehodai4/status/2112086726382608774",
+   "liked_at": null,
+   "desc": "これから枕な一ノ瀬くん",
+   "likes": 1774,
+   "name": "おかき2世",
+   "text": "これから枕な一ノ瀬くん",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HU-jrstbUAAORnq",
+     "fmt": "jpg",
+     "w": 1434,
+     "h": 1346
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-19T07:41:30.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2090753151054086145/C_JOGlDR_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2112453777609634094",
+   "handle": "usatama_amyu",
+   "order": 4017,
+   "url": "https://x.com/usatama_amyu/status/2112453777609634094",
+   "liked_at": null,
+   "desc": "ぴゅあぴゅあ？💘 #初音ミク",
+   "likes": 5515,
+   "name": "兎彷魂あみゅ🤍🐰🩷",
+   "text": "ぴゅあぴゅあ？💘 #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HVBRv2mbYAAGiv5",
+     "fmt": "jpg",
+     "w": 1290,
+     "h": 2048
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2026-10-20T08:00:02.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2074702010679803904/tH22iEau_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
   }
  ],
  "no_image": [
@@ -124768,6 +124859,15 @@
    "desc": "Glacius ~ 😘💋 #Malfoy #Malfoid #HarryPotter",
    "kind": "video",
    "order": 4007
+  },
+  {
+   "id": "2112514322790338853",
+   "handle": "RANK10YGO",
+   "url": "https://x.com/RANK10YGO/status/2112514322790338853",
+   "likes": 12275,
+   "desc": "me spending 4 hours video editing a 2-second joke nobody will laugh at",
+   "kind": "video",
+   "order": 4014
   }
  ]
 }
