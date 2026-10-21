@@ -1,15 +1,15 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-21 11:17 KST",
+ "generated": "2026-10-21 12:22 KST",
  "counts": {
-  "total": 4018,
-  "with_images": 3718,
-  "images": 4485,
+  "total": 4019,
+  "with_images": 3719,
+  "images": 4486,
   "video": 179,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1926,
+  "miku": 1927,
   "teto": 493
  },
  "posts": [
@@ -122161,6 +122161,40 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/2074702010679803904/tH22iEau_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "2112435875472949673",
+   "handle": "x_jacketx",
+   "order": 4018,
+   "url": "https://x.com/x_jacketx/status/2112435875472949673",
+   "liked_at": null,
+   "desc": "メイド猫ミミク #初音ミク #イラスト",
+   "likes": 6066,
+   "name": "jacket",
+   "text": "メイド猫ミミク #初音ミク #イラスト",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HVDhOW2aMAA9XlV",
+     "fmt": "jpg",
+     "w": 1433,
+     "h": 2048
+    }
+   ],
+   "hashtags": [
+    "初音ミク",
+    "イラスト"
+   ],
+   "created_at": "2026-10-20T06:48:54.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2098796929094438912/YHCqy50u_bigger.jpg",
    "sensitive": false,
    "tags": [
     "miku"
