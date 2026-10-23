@@ -1,16 +1,16 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-23 09:20 KST",
+ "generated": "2026-10-23 11:22 KST",
  "counts": {
-  "total": 4020,
-  "with_images": 3720,
-  "images": 4487,
+  "total": 4023,
+  "with_images": 3723,
+  "images": 4496,
   "video": 179,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1927,
-  "teto": 493
+  "miku": 1928,
+  "teto": 494
  },
  "posts": [
   {
@@ -122226,6 +122226,141 @@
    ],
    "status": "ok",
    "avatar": "https://pbs.twimg.com/profile_images/1833326162598367234/Y42id3Yj_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2113237963190792414",
+   "handle": "onlymikufans",
+   "order": 4020,
+   "url": "https://x.com/onlymikufans/status/2113237963190792414",
+   "liked_at": null,
+   "desc": "えっと…ありがとう。 #重音テト #初音ミク",
+   "likes": 6104,
+   "name": "onlymikufans",
+   "text": "えっと…ありがとう。 #重音テト #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HVO6oU8aoAMvMph",
+     "fmt": "jpg",
+     "w": 262,
+     "h": 1080
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HVO6oyBbEAAHz-q",
+     "fmt": "jpg",
+     "w": 511,
+     "h": 1080
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HVO6qnAaYAEUcOL",
+     "fmt": "jpg",
+     "w": 708,
+     "h": 1080
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HVO6taJbsAAdIzu",
+     "fmt": "jpg",
+     "w": 439,
+     "h": 1080
+    }
+   ],
+   "hashtags": [
+    "重音テト",
+    "初音ミク"
+   ],
+   "created_at": "2026-10-22T11:56:07.000Z",
+   "media_types": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2105682181431668736/ECHQR6_Q_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku",
+    "teto"
+   ],
+   "kind": "image"
+  },
+  {
+   "id": "2112998665136783655",
+   "handle": "ZRe00",
+   "order": 4021,
+   "url": "https://x.com/ZRe00/status/2112998665136783655",
+   "liked_at": null,
+   "desc": "遭遇",
+   "likes": 34940,
+   "name": "zero/ぜろ",
+   "text": "遭遇",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HVLhFgEbMAAGzWA",
+     "fmt": "jpg",
+     "w": 684,
+     "h": 2048
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HVLhFgEaQAAam4A",
+     "fmt": "jpg",
+     "w": 684,
+     "h": 2048
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HVLhFgPa8AA6YFR",
+     "fmt": "jpg",
+     "w": 684,
+     "h": 2048
+    },
+    {
+     "base": "https://pbs.twimg.com/media/HVLhFgDbEAAsbzZ",
+     "fmt": "jpg",
+     "w": 684,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-21T20:05:14.000Z",
+   "media_types": [
+    "photo",
+    "photo",
+    "photo",
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1503817312826134528/bK-ntgvO_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2113293243131871360",
+   "handle": "jjeogii",
+   "order": 4022,
+   "url": "https://x.com/jjeogii/status/2113293243131871360",
+   "liked_at": null,
+   "desc": "고음 지를때 찡그리는 거 너무 멋있어",
+   "likes": 2881,
+   "name": "JJEOGI",
+   "text": "고음 지를때 찡그리는 거 너무 멋있어",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HVPtAJGaMAAgoXu",
+     "fmt": "jpg",
+     "w": 2289,
+     "h": 2879
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-22T15:35:46.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2047304015399272448/fhCMZXkW_bigger.jpg",
    "sensitive": false,
    "tags": [],
    "kind": "image"
