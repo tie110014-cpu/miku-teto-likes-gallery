@@ -1,10 +1,10 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-21 12:22 KST",
+ "generated": "2026-10-23 09:20 KST",
  "counts": {
-  "total": 4019,
-  "with_images": 3719,
-  "images": 4486,
+  "total": 4020,
+  "with_images": 3720,
+  "images": 4487,
   "video": 179,
   "text": 40,
   "unavailable": 80,
@@ -122199,6 +122199,35 @@
    "tags": [
     "miku"
    ],
+   "kind": "image"
+  },
+  {
+   "id": "2113266446478573806",
+   "handle": "Yzk03",
+   "order": 4019,
+   "url": "https://x.com/Yzk03/status/2113266446478573806",
+   "liked_at": null,
+   "desc": ":",
+   "likes": 3007,
+   "name": "Yohki",
+   "text": ":",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HVPUoOVbMAAouh6",
+     "fmt": "jpg",
+     "w": 1514,
+     "h": 2053
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-22T13:49:18.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1833326162598367234/Y42id3Yj_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
    "kind": "image"
   }
  ],
