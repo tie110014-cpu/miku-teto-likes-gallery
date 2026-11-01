@@ -1,15 +1,15 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-10-23 11:22 KST",
+ "generated": "2026-11-01 14:15 KST",
  "counts": {
-  "total": 4023,
-  "with_images": 3723,
-  "images": 4496,
+  "total": 4026,
+  "with_images": 3726,
+  "images": 4499,
   "video": 179,
   "text": 40,
   "unavailable": 80,
   "error": 1,
-  "miku": 1928,
+  "miku": 1929,
   "teto": 494
  },
  "posts": [
@@ -122363,6 +122363,97 @@
    "avatar": "https://pbs.twimg.com/profile_images/2047304015399272448/fhCMZXkW_bigger.jpg",
    "sensitive": false,
    "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2116494972161757303",
+   "handle": "okakitabehodai4",
+   "order": 4023,
+   "url": "https://x.com/okakitabehodai4/status/2116494972161757303",
+   "liked_at": null,
+   "desc": "男子校の男の娘",
+   "likes": 1362,
+   "name": "おかき2世",
+   "text": "男子校の男の娘",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HV9M9V_bgAA2otd",
+     "fmt": "jpg",
+     "w": 1609,
+     "h": 2048
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-31T11:38:18.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2090753151054086145/C_JOGlDR_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2116229970905481456",
+   "handle": "00hoot",
+   "order": 4024,
+   "url": "https://x.com/00hoot/status/2116229970905481456",
+   "liked_at": null,
+   "desc": "",
+   "likes": 15044,
+   "name": "hoot",
+   "text": "",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HV5b8A_acAAhQjb",
+     "fmt": "jpg",
+     "w": 2000,
+     "h": 1500
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-10-30T18:05:17.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1957304441767653376/KCySk4-E_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
+   "kind": "image"
+  },
+  {
+   "id": "2116319586538955008",
+   "handle": "ma_sha_ma",
+   "order": 4025,
+   "url": "https://x.com/ma_sha_ma/status/2116319586538955008",
+   "liked_at": null,
+   "desc": "Miku #初音ミク",
+   "likes": 6132,
+   "name": "ましゃ",
+   "text": "Miku #初音ミク",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HV6tcLQbUAAdOmo",
+     "fmt": "jpg",
+     "w": 2850,
+     "h": 4031
+    }
+   ],
+   "hashtags": [
+    "初音ミク"
+   ],
+   "created_at": "2026-10-31T00:01:23.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/1982578247905771520/SvSarwar_bigger.jpg",
+   "sensitive": false,
+   "tags": [
+    "miku"
+   ],
    "kind": "image"
   }
  ],
