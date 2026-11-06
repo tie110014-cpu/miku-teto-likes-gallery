@@ -1,10 +1,10 @@
 {
  "account": "Miku_Monitoring",
- "generated": "2026-11-01 14:15 KST",
+ "generated": "2026-11-06 10:16 KST",
  "counts": {
-  "total": 4026,
-  "with_images": 3726,
-  "images": 4499,
+  "total": 4027,
+  "with_images": 3727,
+  "images": 4500,
   "video": 179,
   "text": 40,
   "unavailable": 80,
@@ -122454,6 +122454,35 @@
    "tags": [
     "miku"
    ],
+   "kind": "image"
+  },
+  {
+   "id": "2057047411277856954",
+   "handle": "jjeogii",
+   "order": 4026,
+   "url": "https://x.com/jjeogii/status/2057047411277856954",
+   "liked_at": null,
+   "desc": "ヒーローと魔法少女",
+   "likes": 30541,
+   "name": "JJEOGI",
+   "text": "ヒーローと魔法少女",
+   "images": [
+    {
+     "base": "https://pbs.twimg.com/media/HIwZt8Qa0AASWnC",
+     "fmt": "jpg",
+     "w": 2480,
+     "h": 3508
+    }
+   ],
+   "hashtags": [],
+   "created_at": "2026-05-20T10:34:55.000Z",
+   "media_types": [
+    "photo"
+   ],
+   "status": "ok",
+   "avatar": "https://pbs.twimg.com/profile_images/2047304015399272448/fhCMZXkW_bigger.jpg",
+   "sensitive": false,
+   "tags": [],
    "kind": "image"
   }
  ],
